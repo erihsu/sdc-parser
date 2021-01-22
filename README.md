@@ -6,5 +6,5 @@ SDC is introdued by Synopsys, Inc and its syntax is commonly supported by popula
 
 
 # Reference
-[1.sdc-synopsys-design-constraint-file](https://www.teamvlsi.com/2020/05/sdc-synopsys-design-constraint-file-in.html)
-[2.From Actol](http://ebook.pldworld.com/_semiconductors/actel/libero_v70_fusion_webhelp/sdc_files.htm)
+[1.sdc-synopsys-design-constraint-file](https://www.teamvlsi.com/2020/05/sdc-synopsys-design-constraint-file-in.html) \
+[2.From Actel](http://ebook.pldworld.com/_semiconductors/actel/libero_v70_fusion_webhelp/sdc_files.htm)
